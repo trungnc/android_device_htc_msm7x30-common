@@ -100,7 +100,7 @@ PRODUCT_PACKAGES += \
     com.android.future.usb.accessory
 
 # Torch
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     Torch
 
 # DeviceSettings
